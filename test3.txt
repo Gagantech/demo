@@ -1,0 +1,14 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 963C-9507
+
+ Directory of C:\Users\User\Desktop\demo
+
+18-12-2024  16:16    <DIR>          .
+18-12-2024  15:20    <DIR>          ..
+18-12-2024  15:21               390 index.html
+18-12-2024  16:03               440 newFile.html
+18-12-2024  15:21               342 sample.txt
+18-12-2024  16:03               486 test.txt
+18-12-2024  16:16                 0 test3.txt
+               5 File(s)          1,658 bytes
+               2 Dir(s)  68,045,000,704 bytes free
